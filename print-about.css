@@ -1,0 +1,25 @@
+header, main{
+    font-family: 'Times New Roman';
+}
+header{
+    background: none;
+    height: auto;
+}
+h1{
+    color:black;
+}
+nav{
+    display: none;
+}
+a{
+    color:black;
+}
+main{
+    background-color: white;
+}
+section{
+    color: black;
+}
+article{
+    width: 560px;
+}

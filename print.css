@@ -1,0 +1,48 @@
+header, main{
+    font-family: 'Times New Roman';
+}
+header{
+    background: none;
+    height: 100%;
+}
+.bottom_container{
+    flex-direction: column;
+}
+h1{
+    color:black;
+}
+nav{
+    display: none;
+}
+a{
+    color:black;
+}
+.bottom_container{
+    color:black;
+    margin-bottom: 100px;
+}
+main{
+    background-color: white;
+}
+.main_wrapper{
+    color: black;
+}
+article{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+article li{
+    text-align: justify;
+    text-indent: 40px;
+}
+article li:first-child{
+    text-align: center;
+}
+table{
+    width:90%;
+    margin-bottom: 20px;
+}
+span{
+    color: black;
+}
