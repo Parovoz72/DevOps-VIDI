@@ -1,2 +1,2 @@
-# DevOps-VIDI
+# DevOps-req
 Репозиторий по дисциплине DevOps
